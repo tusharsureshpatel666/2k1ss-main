@@ -7,11 +7,11 @@ import prisma from "@/lib/prisma";
 
 export default function Dashboard() {
 
-  useEffect(() => {
-     const handleData = async() => {
-            const res = await 
-     }
-  })
+  // useEffect(() => {
+  //    const handleData = async() => {
+  //           const res = await 
+  //    }
+  // })
   
   return (
     <div className="w-full max-w-6xl">
